@@ -25,7 +25,6 @@ public class VariablesTypes {
         System.out.println("int = " + v_int);
         System.out.println("long = " + v_long);
         System.out.println("float = " + v_float);
-
         System.out.println("double = " + v_double);
         System.out.println("char: " + v_char);
         System.out.println("String: " + v_string);
