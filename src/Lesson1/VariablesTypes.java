@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class VariablesTypes {
     public static void main(String[] args) {
 //        whole numbers
