@@ -1,0 +1,4 @@
+Vahe,Martirosyan,m,1988,69.5
+Armine,Martirosyan,f,2002,86.1
+Arman,Martirosyan,m,1986,99.6
+Nare,Martirosyan,f,1992,99.9
